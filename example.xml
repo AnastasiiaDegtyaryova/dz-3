@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF=8"?>
+<student>
+  <personal_info>
+    <name>Bailey Lily</name>
+    <age>20</age>
+    <gender>female</gender>
+    <email>baileylily@example.com</email>
+    <hobby>
+      <item>hiking</item>
+      <item>reading</item>
+      <item>sleeping</item>
+    </hobby>
+  </personal_info>
+  <academic_info>
+    <major>Computer Science</major>
+    <gpa>3.8</gpa>
+    <gpa_scale>5.0</gpa_scale>
+    <Grant>false</Grant>
+    <amount/>
+    <courses>
+      <course>
+        <course_name>Introduction to Programming</course_name>
+        <grade>A</grade>
+      </course>
+      <course>
+        <course_name>Data Structures and Algorithms</course_name>
+        <grade>B+</grade>
+      </course>
+      <course>
+        <course_name>Web Development</course_name>
+        <grade>A-</grade>
+      </course>
+    </courses>
+  </academic_info>
+</student>
+

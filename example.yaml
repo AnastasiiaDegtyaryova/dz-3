@@ -1,0 +1,26 @@
+student:
+  personal_info:
+    name: Bailey Lily
+    age: 20
+    gender: female
+    email: baileylily@example.com
+    hobby:
+      - hiking
+      - reading
+      - sleeping
+  academic_info:
+    major: Computer Science
+    gpa: 3.8
+    gpa_scale: 5.0
+    Grant: false
+    amount: null
+    courses:
+      - course_name: Introduction to Programming
+        grade: A
+      - course_name: Data Structures and Algorithms
+        grade: B+
+      - course_name: Web Development
+        grade: A-
+
+
+
